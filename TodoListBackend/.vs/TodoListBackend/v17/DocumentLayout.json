@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|c:\\users\\yusuf\\onedrive\\desktop\\dot-net\\todolistbackend\\todolistbackend\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|solutionrelative:todolistbackend\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|c:\\users\\yusuf\\onedrive\\desktop\\dot-net\\todolistbackend\\todolistbackend\\entities\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|solutionrelative:todolistbackend\\entities\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|c:\\users\\yusuf\\onedrive\\desktop\\dot-net\\todolistbackend\\todolistbackend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|solutionrelative:todolistbackend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|c:\\users\\yusuf\\onedrive\\desktop\\dot-net\\todolistbackend\\todolistbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|solutionrelative:todolistbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|c:\\users\\yusuf\\onedrive\\desktop\\dot-net\\todolistbackend\\todolistbackend\\migrations\\20240511085546_todo database added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|solutionrelative:todolistbackend\\migrations\\20240511085546_todo database added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|c:\\users\\yusuf\\onedrive\\desktop\\dot-net\\todolistbackend\\todolistbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|solutionrelative:todolistbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|c:\\users\\yusuf\\onedrive\\desktop\\dot-net\\todolistbackend\\todolistbackend\\migrations\\20240514100309_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|solutionrelative:todolistbackend\\migrations\\20240514100309_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|c:\\users\\yusuf\\onedrive\\desktop\\dot-net\\todolistbackend\\todolistbackend\\migrations\\20240514101109_addedj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3959540C-B2F0-4349-B446-DD6B460E790F}|TodoListBackend\\TodoListBackend.csproj|solutionrelative:todolistbackend\\migrations\\20240514101109_addedj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240511085546_Todo Database Added.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Migrations\\20240511085546_Todo Database Added.cs",
+              "RelativeDocumentMoniker": "TodoListBackend\\Migrations\\20240511085546_Todo Database Added.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Migrations\\20240511085546_Todo Database Added.cs",
+              "RelativeToolTip": "TodoListBackend\\Migrations\\20240511085546_Todo Database Added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:55:47.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "TodoListBackend\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "TodoListBackend\\Controllers\\TodosController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowGMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:43:56.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoListBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\appsettings.json",
+              "RelativeToolTip": "TodoListBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T08:41:57.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240514101109_addedj.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Migrations\\20240514101109_addedj.cs",
+              "RelativeDocumentMoniker": "TodoListBackend\\Migrations\\20240514101109_addedj.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Migrations\\20240514101109_addedj.cs",
+              "RelativeToolTip": "TodoListBackend\\Migrations\\20240514101109_addedj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:11:09.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Program.cs",
+              "RelativeDocumentMoniker": "TodoListBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Program.cs",
+              "RelativeToolTip": "TodoListBackend\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:37:07.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Entities\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TodoListBackend\\Entities\\TodoDbContext.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Entities\\TodoDbContext.cs",
+              "RelativeToolTip": "TodoListBackend\\Entities\\TodoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:34:35.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoListBackend\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoListBackend\\Models\\Todo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:29:53.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240514100309_Added.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Migrations\\20240514100309_Added.cs",
+              "RelativeDocumentMoniker": "TodoListBackend\\Migrations\\20240514100309_Added.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\Migrations\\20240514100309_Added.cs",
+              "RelativeToolTip": "TodoListBackend\\Migrations\\20240514100309_Added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:03:09.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

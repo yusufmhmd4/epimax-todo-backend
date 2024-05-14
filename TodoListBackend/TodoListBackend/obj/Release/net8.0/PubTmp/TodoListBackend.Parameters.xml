@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="yusufmhmd-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="TodoListBackend.Entities.TodoDbContext" description="" value="Data Source=SQL8010.site4now.net;Initial Catalog=db_aa8b43_todolist;User Id=db_aa8b43_todolist_admin;Password=Yusuf@0418" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\yusuf\\OneDrive\\Desktop\\dot-net\\TodoListBackend\\TodoListBackend\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\TodoListBackend\.Entities\.TodoDbContext\.sql$" />
+  </parameter>
+</parameters>

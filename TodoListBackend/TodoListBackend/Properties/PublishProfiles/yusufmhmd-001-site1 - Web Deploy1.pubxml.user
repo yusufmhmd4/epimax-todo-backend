@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2024-05-14T10:18:25.0175110Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="todosConnectionString">
+      <Value>Data Source=SQL8010.site4now.net%3bInitial Catalog=db_aa8b43_todolist%3bUser Id=db_aa8b43_todolist_admin%3bPassword=Yusuf%400418</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="TodoListBackend.Entities.TodoDbContext">
+      <Value>Data Source=SQL8010.site4now.net%3bInitial Catalog=db_aa8b43_todolist%3bUser Id=db_aa8b43_todolist_admin%3bPassword=Yusuf%400418</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
